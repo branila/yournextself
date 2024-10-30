@@ -41,8 +41,7 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
   - **Svelte**: Framework JavaScript moderno e reattivo, scelto per il codice frontend leggero e performante. Il lavoro di compilazione riduce il codice e migliora le prestazioni anche su dispositivi con risorse limitate.
   - **SvelteKit**: Garantisce un’esperienza fluida grazie al rendering server-side e static site generation, ottimizzando tempi di caricamento e SEO.
 
-- **Backend**: *Meteor e Go*
-  - **Meteor**: Piattaforma full-stack per applicazioni in tempo reale. Con supporto per JavaScript end-to-end e MongoDB, facilita funzionalità come aggiornamenti dinamici del feed e notifiche.
+- **Backend**: *Go*
   - **Go (Golang)**: Ideale per sviluppare microservizi scalabili e performanti, Go gestisce flusso dati, autenticazione e API con affidabilità e velocità, supportando la scalabilità.
 
 - **Database**: *MongoDB*
