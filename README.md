@@ -63,14 +63,12 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Performance**: Tempi di risposta rapidi e fluidità in tutte le operazioni.
 - **Scalabilità**: Capacità di supportare un numero crescente di utenti e community.
 - **Sicurezza e privacy**: Protezione dei dati personali e opzioni di privacy avanzate.
-- **Accessibilità**: Compatibilità con normative internazionali di accessibilità.
+
 - **Affidabilità**: Backup regolari, ridondanza server e meccanismi di recupero.
 
 ## 10. Requisiti di dominio
 
-- **Cambio e crescita personale**: La piattaforma supporta la trasformazione individuale con strumenti e contenuti mirati.
-- **Interazione sociale e motivazione**: Il supporto della community incoraggia la partecipazione e il raggiungimento degli obiettivi.
-- **Riservatezza e fiducia**: Standard elevati di riservatezza e controllo dei dati, per una condivisione sicura.
-- **Contenuti educativi e motivazionali**: YourNextSelf promuove apprendimento e miglioramento continuo attraverso contenuti educativi.
+- Accessibilità e compatibilità con normative internazionali di accessibilità.
+- **Riservatezza**: Standard elevati di riservatezza e controllo dei dati.
 
 ### Copyright © 2024 - All rights reserved | Made with luv by @branila
