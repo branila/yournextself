@@ -1,26 +1,16 @@
 # YourNextSelf: Il Social Network per il Cambiamento Personale
 
----
-
 ## 1. Nome
 **YourNextSelf**
-
----
 
 ## 2. Descrizione
 **YourNextSelf** è il portale di chi vuole cambiare la propria vita, pensato per rivoluzionare l’approccio al cambiamento. Una piattaforma completa che combina risorse, strumenti, interconnessione tra utenti e creazione di comunità, costruendo un ecosistema dinamico per l’auto-miglioramento.
 
----
-
 ## 3. Tagline
 > **La piattaforma che apri quando decidi di prendere in mano la tua vita**
 
----
-
 ## 4. Target
 Individui motivati al cambiamento e alla crescita personale, di tutte le età, alla ricerca di supporto, strumenti e ispirazione per migliorare la propria vita.
-
----
 
 ## 5. Problema
 YourNextSelf risolve il problema della mancanza di supporto strutturato e di una rete sociale forte per le persone che cercano cambiamenti significativi nella propria vita. Chi inizia un percorso di auto-miglioramento spesso affronta sfide complesse senza risorse, guida e community adeguate.
@@ -35,8 +25,6 @@ Problemi specifici risolti:
   
 - **Vulnerabilità nella condivisione del proprio percorso**: Con opzioni di privacy avanzate, gli utenti possono scegliere tra obiettivi pubblici e privati, sentendosi sicuri e in controllo dei dati condivisi.
 
----
-
 ## 6. Competitor
 YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social network centrati sul benessere e la crescita personale. Ecco alcuni competitor:
 
@@ -46,8 +34,6 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Habitica**: Trasforma obiettivi in un “gioco” di crescita, integrando elementi social e di autogestione.
 
 **YourNextSelf** è unico nella combinazione di approccio sociale, strumenti per il cambiamento e opportunità di creare comunità autonome con obiettivi condivisi.
-
----
 
 ## 7. Tecnologie utilizzate
 
@@ -62,8 +48,6 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Database**: *MongoDB*
   - Database NoSQL scelto per la sua flessibilità e capacità di gestire dati eterogenei, ideale per social network con profili utente, obiettivi e interazioni. MongoDB garantisce una solida infrastruttura per archiviazione e recupero dati rapidi e sicuri.
 
----
-
 ## 8. Requisiti funzionali
 
 - **Registrazione e profili personalizzati**: Creazione di profili con opzioni per obiettivi e progressi pubblici o privati.
@@ -74,8 +58,6 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Notifiche e interazione**: Notifiche su progressi, eventi e attività della community.
 - **Strumenti di auto-miglioramento**: Articoli, video, check-list e suggerimenti giornalieri.
 
----
-
 ## 9. Requisiti non funzionali
 
 - **Interfaccia intuitiva**: Design semplice e navigazione user-friendly.
@@ -85,15 +67,11 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Accessibilità**: Compatibilità con normative internazionali di accessibilità.
 - **Affidabilità**: Backup regolari, ridondanza server e meccanismi di recupero.
 
----
-
 ## 10. Requisiti di dominio
 
 - **Cambio e crescita personale**: La piattaforma supporta la trasformazione individuale con strumenti e contenuti mirati.
 - **Interazione sociale e motivazione**: Il supporto della community incoraggia la partecipazione e il raggiungimento degli obiettivi.
 - **Riservatezza e fiducia**: Standard elevati di riservatezza e controllo dei dati, per una condivisione sicura.
 - **Contenuti educativi e motivazionali**: YourNextSelf promuove apprendimento e miglioramento continuo attraverso contenuti educativi.
-
----
 
 ### Copyright © 2024 - All rights reserved | Made with luv by @branila
