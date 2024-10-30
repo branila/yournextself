@@ -63,12 +63,11 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Performance**: Tempi di risposta rapidi e fluidità in tutte le operazioni.
 - **Scalabilità**: Capacità di supportare un numero crescente di utenti e community.
 - **Sicurezza e privacy**: Protezione dei dati personali e opzioni di privacy avanzate.
-
 - **Affidabilità**: Backup regolari, ridondanza server e meccanismi di recupero.
 
 ## 10. Requisiti di dominio
 
-- Accessibilità e compatibilità con normative internazionali di accessibilità.
+- **Accessibilità**: compatibilità con normative internazionali di accessibilità.
 - **Riservatezza**: Standard elevati di riservatezza e controllo dei dati.
 
 ### Copyright © 2024 - All rights reserved | Made with luv by @branila
