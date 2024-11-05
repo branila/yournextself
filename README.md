@@ -57,61 +57,61 @@ YourNextSelf si inserisce tra le piattaforme di auto-miglioramento e social netw
 - **Notifiche e interazione**: Notifiche su progressi, eventi e attività della community.
 - **Strumenti di auto-miglioramento**: Articoli, video, check-list e suggerimenti giornalieri.
 
-##Diagramma dei Casi d'Uso UML 
-###Attori Principali
+## Diagramma dei Casi d'Uso UML 
+### Attori Principali
 
-    Utente Registrato: Persona che si è registrata alla piattaforma, creando un profilo per il proprio percorso di crescita personale.
-    Admin: Utente con privilegi di amministratore che gestisce community, monitoraggio della piattaforma e contenuti.
+  Utente Registrato: Persona che si è registrata alla piattaforma, creando un profilo per il proprio percorso di crescita personale.
+  Admin: Utente con privilegi di amministratore che gestisce community, monitoraggio della piattaforma e contenuti.
 
-###Casi d'Uso
+### Casi d'Uso
 
-    Registrazione e Gestione Profilo
-        Descrizione: Un utente può registrarsi alla piattaforma, creare e aggiornare un profilo personalizzato.
-        Azioni:
-            Registrazione
-            Login/Logout
-            Aggiornamento Profilo (es. obiettivi, preferenze di visibilità)
+  Registrazione e Gestione Profilo
+      Descrizione: Un utente può registrarsi alla piattaforma, creare e aggiornare un profilo personalizzato.
+      Azioni:
+          Registrazione
+          Login/Logout
+          Aggiornamento Profilo (es. obiettivi, preferenze di visibilità)
 
-    Definizione e Monitoraggio Obiettivi
-        Descrizione: L'utente può creare obiettivi personali e monitorarne i progressi, con la possibilità di renderli pubblici o privati.
-        Azioni:
-            Creazione di un Obiettivo
-            Aggiornamento Progressi Obiettivo
-            Visualizzazione Cronologia Progressi
+  Definizione e Monitoraggio Obiettivi
+      Descrizione: L'utente può creare obiettivi personali e monitorarne i progressi, con la possibilità di renderli pubblici o privati.
+      Azioni:
+          Creazione di un Obiettivo
+          Aggiornamento Progressi Obiettivo
+          Visualizzazione Cronologia Progressi
 
-    Bacheca Progressi
-        Descrizione: Gli utenti possono condividere i progressi dei propri obiettivi e ricevere feedback dalla community.
-        Azioni:
-            Pubblicazione Progressi nella Bacheca
-            Visualizzazione dei Post e Commenti
-            Interazione con i Post (like, commenti)
+  Bacheca Progressi
+      Descrizione: Gli utenti possono condividere i progressi dei propri obiettivi e ricevere feedback dalla community.
+      Azioni:
+          Pubblicazione Progressi nella Bacheca
+          Visualizzazione dei Post e Commenti
+          Interazione con i Post (like, commenti)
 
-    Sondaggi Giornalieri
-        Descrizione: La piattaforma offre sondaggi giornalieri per stimolare la riflessione e la partecipazione degli utenti.
-        Azioni:
-            Partecipazione al Sondaggio
-            Visualizzazione Risultati del Sondaggio
+  Sondaggi Giornalieri
+      Descrizione: La piattaforma offre sondaggi giornalieri per stimolare la riflessione e la partecipazione degli utenti.
+      Azioni:
+          Partecipazione al Sondaggio
+          Visualizzazione Risultati del Sondaggio
 
-    Gestione Community
-        Descrizione: Gli utenti possono creare e partecipare a gruppi focalizzati su obiettivi di cambiamento specifici.
-        Azioni:
-            Creazione di una Community
-            Invito e Gestione Membri della Community
-            Pubblicazione di Contenuti all'interno della Community
+  Gestione Community
+      Descrizione: Gli utenti possono creare e partecipare a gruppi focalizzati su obiettivi di cambiamento specifici.
+      Azioni:
+          Creazione di una Community
+          Invito e Gestione Membri della Community
+          Pubblicazione di Contenuti all'interno della Community
 
-    Notifiche e Interazione
-        Descrizione: Gli utenti ricevono notifiche su aggiornamenti rilevanti, come progressi degli obiettivi, attività della community o eventi.
-        Azioni:
-            Ricezione Notifiche per Obiettivi
-            Ricezione Notifiche per Interazioni nella Community
-            Visualizzazione Notifiche
+  Notifiche e Interazione
+      Descrizione: Gli utenti ricevono notifiche su aggiornamenti rilevanti, come progressi degli obiettivi, attività della community o eventi.
+      Azioni:
+          Ricezione Notifiche per Obiettivi
+          Ricezione Notifiche per Interazioni nella Community
+          Visualizzazione Notifiche
 
-    Accesso a Strumenti di Auto-Miglioramento
-        Descrizione: La piattaforma mette a disposizione contenuti e strumenti, come articoli motivazionali, video e checklist.
-        Azioni:
-            Visualizzazione di Articoli e Video
-            Utilizzo Checklist e Suggerimenti
-            Salvataggio Risorse preferite
+  Accesso a Strumenti di Auto-Miglioramento
+      Descrizione: La piattaforma mette a disposizione contenuti e strumenti, come articoli motivazionali, video e checklist.
+      Azioni:
+          Visualizzazione di Articoli e Video
+          Utilizzo Checklist e Suggerimenti
+          Salvataggio Risorse preferite
 
 ## 9. Requisiti non funzionali
 
